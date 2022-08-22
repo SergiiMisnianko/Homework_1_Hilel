@@ -8,3 +8,5 @@ let subtractResult = firstNumber - secondNumber;
 let multiplyResult = firstNumber * secondNumber;
 let divideResult = firstNumber / secondNumber;
 alert("Your numbers: " + firstNumber + " and " + secondNumber + "." + " Addition: " + addResult + "." + " Difference: " + subtractResult + "." + " Product:  " + multiplyResult + "." + " Quotient: " + divideResult + "." + " Well, how? Did you like the game? Try again!");
+
+

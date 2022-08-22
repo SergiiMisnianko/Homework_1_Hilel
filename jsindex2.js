@@ -5,7 +5,7 @@ let firstNumber =  parseInt(firstInput);
 let secondNumber =  parseInt(secondInput);
 if (firstNumber>secondNumber) {alert("Comparison result: " + firstNumber + " > " + secondNumber)}
 else if (firstNumber<secondNumber) {alert("Comparison result: " + firstNumber + " < " + secondNumber)}
-else {alert("Comparison result: " + firstNumber + " = " + secondNumber)}
+else {alert("Comparison result: " + firstNumber + " = " + secondNumber)};
 
 
 
